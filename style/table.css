@@ -1,0 +1,20 @@
+table{
+	position: flexible;
+	width:800px;
+	height: auto;
+	border-width: 1pt;
+	border-color: black;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+
+th{
+	background-color: skyblue;
+	color: white;
+}
+
+td{
+	text-align: center;
+	padding: 5px 10px;
+	border-width: 4pt;
+}
