@@ -13,7 +13,6 @@
     height: 70px;
     opacity: 0.7;
     }
-
   </style>  
   <link href="style/css/bootstrap.min.css" rel="stylesheet">  
   <link href="style/css/style-primary.css" rel="stylesheet">   
@@ -23,7 +22,7 @@
 	<script src="style/js/bootstrap.min.js"/></script>
 	</head>
 	<body>
- 
+    <!-- Coba Commit -->
 		<nav class="navbar navbar-inverse navbar-fixed-top navbar-custom">
   			<div class="container">
     			<div class="navbar-header">
